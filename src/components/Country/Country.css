@@ -1,0 +1,10 @@
+.country{
+    margin: 20px;
+    background-color: lavender;
+    border: 2px solid purple;
+    border-radius: 20px;
+    padding: 15px;
+}
+.country img{
+    width: 200px
+}
